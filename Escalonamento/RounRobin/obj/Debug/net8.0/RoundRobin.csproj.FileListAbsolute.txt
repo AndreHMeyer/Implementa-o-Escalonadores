@@ -1,0 +1,14 @@
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RoundRobin.exe
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RoundRobin.deps.json
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RoundRobin.runtimeconfig.json
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RoundRobin.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RoundRobin.pdb
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RoundRobin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RoundRobin.AssemblyInfoInputs.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RoundRobin.AssemblyInfo.cs
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RoundRobin.csproj.CoreCompileInputs.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RoundRobin.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\refint\RoundRobin.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RoundRobin.pdb
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RoundRobin.genruntimeconfig.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\ref\RoundRobin.dll

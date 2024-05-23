@@ -1,0 +1,14 @@
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RounRobin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RounRobin.AssemblyInfoInputs.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RounRobin.AssemblyInfo.cs
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RounRobin.csproj.CoreCompileInputs.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RounRobin.exe
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RounRobin.deps.json
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RounRobin.runtimeconfig.json
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RounRobin.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\bin\Debug\net8.0\RounRobin.pdb
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RounRobin.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\refint\RounRobin.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RounRobin.pdb
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\RounRobin.genruntimeconfig.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Escalonamento\Escalonamento\RounRobin\obj\Debug\net8.0\ref\RounRobin.dll
